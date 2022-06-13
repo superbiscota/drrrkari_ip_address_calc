@@ -1,3 +1,5 @@
+*** by drrrkari_ip_address_calc is licensed under the Apache License, Version2.0
+
 ### drrrkari_ip_address_calc v 0.0.1
 usage  
 
