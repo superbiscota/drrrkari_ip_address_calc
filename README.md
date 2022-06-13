@@ -14,4 +14,4 @@ put those params take from drr and use python and calc it !
 
 like this  
 
-Copyright (c) 2022 ron the rocker at all the time 
+Copyright (c) 2022 ron the rocker at all time 
