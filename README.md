@@ -18,4 +18,8 @@ put those params take from drr and use python and calc it !
 
 like this  
 
+### ipアドレスがどうしてDrrrチャットでわかってしまうのかの解説  
+
+執筆中  
+
 Copyright (c) 2022 ron the rocker at all time 
